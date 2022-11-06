@@ -1,7 +1,7 @@
 
 ### Twitter sentiment analysis for tweets regarding Spanish airlines
 
-The main goal of this project was to train a classification model able to classify each twit in three distinct groups:  ‘positive’, ’negative’ or ‘neutral’.
+The main goal of this project was to train a classification model to be able to classify each twit in three distinct groups:  ‘positive’, ’negative’ or ‘neutral’.
 
 To do so, we started making a description of how happy or unhappy the clients were depending on which airline they used.
 
